@@ -12,3 +12,9 @@ This project is an Express.js application that scrapes various e-commerce websit
 - Scrapes multiple e-commerce websites for anime, VTuber, and gatcha game merchandise.
 - Caches results to improve performance.
 - Displays results in a user-friendly format.
+
+<img src="./home.png" alt="Guitar Hero" width="30%">
+<br>
+<img src="./loading.png" alt="Guitar Hero" width="30%">
+<br>
+<img src="./results.png" alt="Guitar Hero" width="30%">
