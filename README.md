@@ -1,6 +1,7 @@
 # Anime Scraper
 
 Compare prices and quality of anime merchandise using Puppeteer web scraping!
+credits to stan and vin for be and fe collaboration
 
 ## Overview
 
