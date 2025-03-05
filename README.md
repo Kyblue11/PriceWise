@@ -13,8 +13,8 @@ This project is an Express.js application that scrapes various e-commerce websit
 - Caches results to improve performance.
 - Displays results in a user-friendly format.
 
-<img src="./home.png" alt="Guitar Hero" width="30%">
+<img src="./home.png" alt="Guitar Hero" width="60%">
 <br>
-<img src="./loading.png" alt="Guitar Hero" width="30%">
+<img src="./searching.png" alt="Guitar Hero" width="60%">
 <br>
-<img src="./results.png" alt="Guitar Hero" width="30%">
+<img src="./results.png" alt="Guitar Hero" width="60%">
