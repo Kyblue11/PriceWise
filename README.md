@@ -1,6 +1,6 @@
-# Anime Scraper
+# PriceWise Scraper Web App
 
-Compare prices and quality of anime merchandise using Puppeteer web scraping!<br>
+Compare prices and quality of different goods and merchandise using Puppeteer web scraping!<br>
 (Credits to stan and vin for be and fe collaboration)
 
 ## Overview
