@@ -5,7 +5,7 @@ Compare prices and quality of different goods and merchandise using Puppeteer we
 
 ## Overview
 
-This project is an Express.js application that scrapes various e-commerce websites for anime merchandise. It extracts keywords from user queries using Google Generative AI and scrapes multiple sites to find matching products. 
+This project is an Express.js application that scrapes various e-commerce websites for available merchandise. It extracts keywords from user queries using Google Generative AI and scrapes multiple sites with parallel processing to find matching products. 
 
 ## Features
 
